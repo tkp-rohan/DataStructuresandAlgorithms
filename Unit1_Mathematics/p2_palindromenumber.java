@@ -1,4 +1,9 @@
+// Checking if a number is palindrome or not
+
+// TC = theta()
+
 import java.util.*;
+
 
 public class p2_palindromenumber {
     

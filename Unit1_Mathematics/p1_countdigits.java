@@ -1,5 +1,5 @@
 // Count Digits
-
+// T.C = theta(digits)
 import java.util.*;
 class p1_countdigits{
 
