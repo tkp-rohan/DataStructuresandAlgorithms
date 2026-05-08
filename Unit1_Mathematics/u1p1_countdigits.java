@@ -1,7 +1,9 @@
+
+
 // Count Digits
 // T.C = theta(digits)
 import java.util.*;
-class p1_countdigits{
+class u1p1_countdigits{
 
     public static int countDigits(int num){
         int temp = num;

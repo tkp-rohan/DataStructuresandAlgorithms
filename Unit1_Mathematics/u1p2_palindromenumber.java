@@ -5,7 +5,7 @@
 import java.util.*;
 
 
-public class p2_palindromenumber {
+public class u1p2_palindromenumber {
     
     public static int reverseNumber(int num){
         int temp = num;

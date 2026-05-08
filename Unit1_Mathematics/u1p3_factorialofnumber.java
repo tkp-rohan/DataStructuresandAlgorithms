@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class p3_factorialofnumber {
+public class u1p3_factorialofnumber {
     
     public static int factorialOfNumber(int num){
         int temp = num;
