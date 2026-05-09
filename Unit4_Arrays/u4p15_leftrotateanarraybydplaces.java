@@ -1,4 +1,4 @@
-package Unit4_Arrays;
+package unit4_arrays;
 
 // Linear time complexity solution
 

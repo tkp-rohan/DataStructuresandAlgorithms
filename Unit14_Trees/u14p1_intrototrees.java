@@ -1,4 +1,4 @@
-package Unit14_Trees;
+package unit14_trees;
 
 // Tree data structure is used to represent hierarchy.
 // Tree is a non linear data structure.

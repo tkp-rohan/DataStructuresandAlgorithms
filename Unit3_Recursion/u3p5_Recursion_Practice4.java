@@ -1,4 +1,4 @@
-package Unit3_Recursion;
+package unit3_recursion;
 
 // This function demonstrates logn to the base 2
 

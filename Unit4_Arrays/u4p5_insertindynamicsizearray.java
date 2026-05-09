@@ -4,7 +4,7 @@
 
 // Example of insertion using ArrayList:
 
-package Unit4_Arrays;
+package unit4_arrays;
 
 import java.util.ArrayList;
 

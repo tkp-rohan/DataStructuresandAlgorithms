@@ -1,4 +1,4 @@
-package Unit4_Arrays;
+package unit4_arrays;
 
 // This program just deletes the first occurence of the element
 // T.C. = O(n)

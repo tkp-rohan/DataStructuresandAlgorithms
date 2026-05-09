@@ -1,4 +1,4 @@
-package Unit4_Arrays;
+package unit4_arrays;
 
 // Arrays: Linear DS, Stored at contiguous locations
 // Advantages: Random Access(Elements can be accessed at O(1) time), 

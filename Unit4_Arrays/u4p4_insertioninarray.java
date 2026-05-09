@@ -1,4 +1,4 @@
-package Unit4_Arrays;
+package unit4_arrays;
 
 // Insert in an array at given position
 // T.C. = O(n)

@@ -1,4 +1,4 @@
-package Unit3_Recursion;
+package unit3_recursion;
 
 public class u3p4_Recursion_Practice3 {
     

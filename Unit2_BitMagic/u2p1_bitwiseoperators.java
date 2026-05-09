@@ -1,4 +1,4 @@
-package Unit2_BitMagic;
+package unit2_bitmagic;
 
 
 //Bitwise Operators: AND(&), OR(|), XOR(^),Not(~),  Left Shift(<<), 

@@ -1,4 +1,4 @@
-package Unit14_Trees;
+package unit14_trees;
 
 // Height of a binary tree is maximum number of node from root to its leaf path.
 // T.C. = O(n)
