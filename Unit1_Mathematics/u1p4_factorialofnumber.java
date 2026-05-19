@@ -16,6 +16,6 @@ public class u1p4_factorialofnumber {
         int number = sc.nextInt();
         sc.close();
         int result = factorial(number);
-        System.out.println("Factorial of a number: "+result);
+        System.out.println("Factorial of the number "+number+" is: "+result);
     }
 }

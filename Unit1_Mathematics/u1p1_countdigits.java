@@ -3,18 +3,16 @@ package unit1_mathematics;
 import java.util.Scanner;
 
 public class u1p1_countdigits {
-    
+    // T.C. = O(n)
+
+
     // Iterative Approach
     // public static int countDigits(int num){
-        
-        
     //     if(num == 0){
     //         return 1;
     //     }
-
     //     int temp = num;
     //     int countOfDigits = 0;
-        
     //     while(temp>0){
     //         temp/=10;
     //         countOfDigits++;
@@ -26,8 +24,7 @@ public class u1p1_countdigits {
     // Recursive approach
     public static int countDigits(int num){
         int temp = num;
-        
-        if(temp<10){
+        if(temp>=0 && temp<10){
             return 1;
         }
         return 1 + countDigits(temp/10);
