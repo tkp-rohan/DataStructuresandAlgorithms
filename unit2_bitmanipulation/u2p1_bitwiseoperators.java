@@ -1,4 +1,4 @@
-package unit2_bitmagic;
+package unit2_bitmanipulation;
 
 
 //Bitwise Operators: AND(&), OR(|), XOR(^),Not(~),  Left Shift(<<), 
@@ -19,10 +19,9 @@ public class u2p1_bitwiseoperators {
     public static void main(String[] args){
         // Scanner sc = new Scanner(System.in);
 
-        int number1 = 6;
-        int number2 = 3;
+        int number1 = 6; // 110
+        int number2 = 3; // 011
 
-        
         int result1 = number1 & number2;
         System.out.println("Result1 of 'Bitwise AND' operation is: "+result1);
 
@@ -62,6 +61,7 @@ public class u2p1_bitwiseoperators {
         int result12 = number4>>4;
         System.out.println("Result12 of 'Bitwise Right Shift' operation is: "+result12);
 
+        
         int result13 = number4>>>1;
         System.out.println("Result13 of 'Bitwise Right Shift' operation is: "+result13);
 
