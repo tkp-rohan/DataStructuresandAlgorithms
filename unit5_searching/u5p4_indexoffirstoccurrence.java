@@ -86,7 +86,7 @@ Output = 3
 ====================================================
 */
 
-public class u5p3_indexoffirstoccurrence {
+public class u5p4_indexoffirstoccurrence {
 
     /*
     ====================================================

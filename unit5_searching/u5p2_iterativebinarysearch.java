@@ -1,6 +1,6 @@
 package unit5_searching;
 
-public class u5p1_iterativebinarysearch {
+public class u5p2_iterativebinarysearch {
 
     // Iterative Binary Search Method
     // Returns index of element if found

@@ -70,7 +70,7 @@ Element found at index 4
 
 */
 
-public class u5p2_recursivebinarysearch {
+public class u5p3_recursivebinarysearch {
 
     /*
     ------------------------------------------------
