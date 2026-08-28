@@ -1,6 +1,6 @@
 package unit14_trees;
 
-// T.C. = O(n) (We do constant amount of work for every node. )
+// T.C. = O(n) (We do constant amount of work for every node.)
 
 // A.S. = O(h). h=height of binary tree
 

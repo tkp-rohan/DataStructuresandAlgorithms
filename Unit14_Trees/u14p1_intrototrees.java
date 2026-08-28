@@ -6,9 +6,9 @@ package unit14_trees;
 // Tree is recursive in nature
 // Subtrees
 // Ancestors: Parents of that node
-// Descendants: Children of that node or all the nodes that have root node as the given node are descendants of that given node
+// Descendants: Children of that node or all the nodes that have root node as the given node are descendants of that given node.
 // Degree of a node : the number of children a node has is known as its degree
-// Internal nodes: non leaf nodes or nodes with degree zero
+// Internal nodes: non leaf nodes or nodes with atleast one child node
 
 
 
@@ -21,7 +21,7 @@ package unit14_trees;
 //      iv.)In OOP(Inheritance)
 
 // 2.)Binary Search Trees
-// 3.) Binary Heap : Used to represent priority queues. used in Dijikstra's algorithm, Huffman Algorithm, Prim's Algorithm or anyother place where we need queue qith priority
+// 3.) Binary Heap : Used to represent priority queues. used in Dijikstra's algorithm, Huffman Algorithm, Prim's Algorithm or any other place where we need queue with priority
 // 4.)In B and B+ Trees in Databases for indexing
 // 5.)Spanning Trees. Bridges use spanning trees to forward the packets.
 // 6.)Shortest path tree in computer networks. Routers use shortest path tree. Every router considers itself as a root of this tree and finds the shortest path to every other node and builds a shortest path tree.
@@ -40,9 +40,8 @@ class Node{
     int key;
     Node left;
     Node right;
-
     Node(int val){
-        key = val;
+         
     }
 }
 

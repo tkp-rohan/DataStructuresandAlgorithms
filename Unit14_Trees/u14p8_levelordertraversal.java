@@ -3,6 +3,10 @@ package unit14_trees;
 import java.util.LinkedList;
 import java.util.Queue;
 
+
+// T.C = O(n)
+// A.S. = O(w), w = width of binary tree
+
 class Node{
     int key;
     Node left;

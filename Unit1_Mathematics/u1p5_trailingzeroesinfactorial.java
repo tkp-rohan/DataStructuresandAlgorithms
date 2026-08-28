@@ -25,7 +25,7 @@ public class u1p5_trailingzeroesinfactorial {
     
 
     // Efficient Solution
-    // The efficient solve the problem that occurs in the above problem
+    // The efficient solution for the problem that occurs in the above approach
     // T.C. = O(logn)
     // A.S. = O(1)
     public static int countTrailingZeroes(int num){
